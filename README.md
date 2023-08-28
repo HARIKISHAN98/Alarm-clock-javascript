@@ -37,7 +37,8 @@ Contributions are welcome! Here's how you can contribute:
 5. Create a pull request.
 
 Live Demo
-Check out the live demo of the Alarm Clock project: 🚀 Live Demo
+Check out the live demo of the Alarm Clock project: 🚀 [Live Demo
+](https://alarm-clock-maza.netlify.app/)
 
 License
 This project is licensed under the MIT License.
